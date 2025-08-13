@@ -28,7 +28,7 @@ To use Mana, move the web font files to your `/fonts` directory and include the 
 <link href="css/mana.min.css" rel="stylesheet" type="text/css" />
 ```
 
-You can also include Mana via CDN thanks to the amazing [jsDelivr](http://jsdelivr.com) project! To include the latest version, reference:
+You can also include Mana via CDN thanks to the amazing [jsDelivr](https://jsdelivr.com) project! To include the latest version, reference:
 
 ```html
 <link href="//cdn.jsdelivr.net/npm/mana-font@latest/css/mana.min.css" rel="stylesheet" type="text/css" />
@@ -52,10 +52,10 @@ Mana uses [private use characters](https://en.wikipedia.org/wiki/Private_Use_Are
 
 ## License
 
-All mana, tap, and card type symbol images are copyright Wizards of the Coast ([http://magicthegathering.com](http://magicthegathering.com))
+All mana, tap, and card type symbol images are copyright Wizards of the Coast ([https://magicthegathering.com](https://magicthegathering.com))
 
-The Mana font is licensed under the the SIL OFL 1.1 ([http://scripts.sil.org/OFL](http://scripts.sil.org/OFL))
+The Mana font is licensed under the the SIL OFL 1.1 ([https://scripts.sil.org/OFL](https://scripts.sil.org/OFL))
 
-Mana CSS, LESS, and Sass files are licensed under the MIT License ([http://opensource.org/licenses/mit-license.html](http://opensource.org/licenses/mit-license.html))
+Mana CSS, LESS, and Sass files are licensed under the MIT License ([https://opensource.org/licenses/mit-license.html](https://opensource.org/licenses/mit-license.html))
 
 Attribution is **greatly appreciated** but not required!
